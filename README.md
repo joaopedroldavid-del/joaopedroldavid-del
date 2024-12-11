@@ -1,10 +1,12 @@
-# 👩🏻‍💻 João Pedro David
+# 👨🏻‍💻 João Pedro David
 
 **`Desenvolvedor Junior`**
 
-Meu nome é João Pedro, tenho 22 anos e sou natural do Mato Grosso, Brasil. Resido em Santa Catarina, onde concluí o ensino médio no Colégio Osvaldo Carvalho. Estou cursando Bacharelado em Ciência da Computação na UNIVALI (Universidade do Vale do Itajaí).
+Meu nome é João Pedro, tenho 22 anos e sou natural do Mato Grosso, Brasil. Resido em Santa Catarina, onde concluí o ensino médio no COC (Colégio Osvaldo Carvalho). Atualmente, estou cursando Bacharelado em Ciência da Computação na UNIVALI (Universidade do Vale do Itajaí).
 
-### 🤖 Linguagens e Tecnologias
+Futuro desenvolvedor Full Stack e estou determinado a alcançar esse objetivo. Constantemente buscando conhecimento e me dedicando ao aprendizado de tecnologias front-end e back-end, além de boas práticas de desenvolvimento. Acredito que minha formação acadêmica, aliada à minha determinação em me aprimorar diariamente, será a chave para trilhar um caminho de sucesso na área de tecnologia.
+
+### 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
