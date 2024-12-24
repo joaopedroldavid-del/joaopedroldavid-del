@@ -89,6 +89,6 @@ Futuro desenvolvedor Full Stack e estou determinado a alcançar esse objetivo. C
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joaopedroldavid-del&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats-hds4.vercel.app/api?username=joaopedroldavid-del&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 </p>
