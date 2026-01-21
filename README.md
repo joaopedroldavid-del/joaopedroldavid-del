@@ -2,9 +2,11 @@
 
 **`Desenvolvedor Junior`**
 
-Meu nome é João Pedro, tenho 22 anos e sou natural do Mato Grosso, Brasil. Resido em Santa Catarina, onde concluí o ensino médio no COC (Colégio Osvaldo Carvalho). Atualmente, estou cursando Bacharelado em Ciência da Computação na UNIVALI (Universidade do Vale do Itajaí).
+I'm João Pedro, a Computer Science student at UNIVALI and currently working as a Full Stack Developer. While my current role involves both front-end and back-end development, my main focus and passion lie in building robust, scalable back-end solutions.
 
-Futuro desenvolvedor Full Stack e estou determinado a alcançar esse objetivo. Constantemente buscando conhecimento e me dedicando ao aprendizado de tecnologias front-end e back-end, além de boas práticas de desenvolvimento. Acredito que minha formação acadêmica, aliada à minha determinação em me aprimorar diariamente, será a chave para trilhar um caminho de sucesso na área de tecnologia.
+I'm continuously expanding my skill set in modern development technologies and best practices, with special attention to clean code, system architecture, and performance optimization. Beyond my work, I'm diving deeper into the world of Artificial Intelligence — particularly in the development and orchestration of AI agents.
+
+Driven by curiosity and purpose, I believe that consistent learning and hands-on practice are key to building a solid career in tech. I’m always open to collaboration, mentorship, and opportunities to grow in both software development and AI innovation.
 
 ### 💻 Linguagens e Tecnologias
 
